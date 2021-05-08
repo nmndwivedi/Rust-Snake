@@ -7,6 +7,14 @@ I built this game as a part of the Tensor Programming Rust course on Youtube, wh
 
 <img src="assets/images/Snake.png" alt="Logo" width="480" height="480" class="center">
 
+<style type="text/css">
+.center
+{
+ text-align:center;
+ display:block;
+}
+</style>
+
 
 ```
 # Play game
