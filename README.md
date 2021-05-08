@@ -4,14 +4,7 @@ A simple implmentation of Snake in Rust, with Piston Game Engine (using the pist
 
 I built this game as a part of the Tensor Programming Rust course on Youtube, which I highly recommend if you are learning Rust
 
-
-<div style="text-align: center;">
-    <img src="assets/images/Snake.png" alt="Logo" width="480" height="480" class="center">
-</div>
-
-<div style="text-align: center;">
-  <img src="assets/images/Snake.png" width=450>
-</div>
+<img align="center" src="assets/images/Snake.png" alt="Screenshot">
 
 ```
 # Play game
