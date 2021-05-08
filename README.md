@@ -9,6 +9,10 @@ I built this game as a part of the Tensor Programming Rust course on Youtube, wh
     <img src="assets/images/Snake.png" alt="Logo" width="480" height="480" class="center">
 </div>
 
+<div style="text-align: center;">
+  <img src="assets/images/Snake.png" width=450>
+</div>
+
 ```
 # Play game
 cargo run
