@@ -1,6 +1,6 @@
 # Rust-Snake
 
-<img src="assets/images/Snake.png" alt="Logo" width="80" height="80">
+<img src="assets/images/Snake.png" alt="Logo" width="640" height="640">
 
 A simple implmentation of Snake in Rust, with Piston Game Engine (using the piston_window convenience wrapper)
 
