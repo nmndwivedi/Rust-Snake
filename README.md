@@ -6,8 +6,6 @@ I built this game as a part of the Tensor Programming Rust course on Youtube, wh
 
 <img align="center" src="assets/images/Snake.png" alt="Screenshot" width=400>
 
-<span style="display:block;text-align:center">![Screenshot]assets/images/Snake.png)</span>
-
 ```
 # Play game
 cargo run
